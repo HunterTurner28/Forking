@@ -16,6 +16,35 @@ public class Forking {
         System.out.println("Forking is pretty swell!");
         System.out.println("Kog'maw is the best champion ever.");
         System.out.println("Gee dang");
+        System.out.println("Gee Willy You really did done fork it up this time!");
+        System.out.println("───────────────▄████████▄────────");
+        System.out.println("──────────────██▒▒▒▒▒▒▒▒██───────");
+        System.out.println("─────────────██▒▒▒▒▒▒▒▒▒██───────");
+        System.out.println("────────────██▒▒▒▒▒▒▒▒▒▒██───────");
+        System.out.println("───────────██▒▒▒▒▒▒▒▒▒██▀────────");
+        System.out.println("──────────██▒▒▒▒▒▒▒▒▒▒██─────────");
+        System.out.println("─────────██▒▒▒▒▒▒▒▒▒▒▒██─────────");
+        System.out.println("────────██▒████▒████▒▒██─────────");
+        System.out.println("────────██▒▒▒▒▒▒▒▒▒▒▒▒██─────────");
+        System.out.println("────────██▒────▒▒────▒██─────────");
+        System.out.println("────────██▒██──▒▒██──▒██─────────");
+        System.out.println("────────██▒────▒▒────▒██─────────");
+        System.out.println("────────██▒▒▒▒▒▒▒▒▒▒▒▒██─────────");
+        System.out.println("───────██▒▒▒████████▒▒▒▒██───────");
+        System.out.println("─────██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██─────");
+        System.out.println("───██▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██▒▒██───");
+        System.out.println("─██▒▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██▒▒▒▒██─");
+        System.out.println("█▒▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██▒▒▒▒█");
+        System.out.println("█▒▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██▒▒▒▒█");
+        System.out.println("█▒▒████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒████▒▒█");
+        System.out.println("▀████▒▒▒▒▒▒▒▒▒▓▓▓▓▒▒▒▒▒▒▒▒▒▒████▀");
+        System.out.println("──█▌▌▌▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌▌▌███──");
+        System.out.println("───█▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌█────");
+        System.out.println("───█▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌█────");
+        System.out.println("────▀█▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌██▀─────");
+        System.out.println("─────█▌▌▌▌▌▌████████▌▌▌▌▌██──────");
+        System.out.println("──────██▒▒██────────██▒▒██───────");
+        System.out.println("──────▀████▀────────▀████▀───────");
     }
     
 }
